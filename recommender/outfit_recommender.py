@@ -9,4 +9,4 @@ class OutfitRecommender:
       result = result[result['color'].str.lower() == color.lower()]
     if occasion:
       result = result[result['occasion'].str.lower() == occasion.lower()]
-    return result['outfit'].tolist()
+    return result['Dress'].tolist()
