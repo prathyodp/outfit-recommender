@@ -1,4 +1,5 @@
-Dress,color,occasion
- Shirt and pant,olive,Formal
-Shirt and jeans,Red,Casual
-Hoodie and Trouser,Black,Party
+outfit,color,occasion
+Casual Shirt and Jeans,Blue,Casual
+Black Suit,Black,Formal
+Red Dress,Red,Party
+Sports Tracksuit,Grey,Sports
